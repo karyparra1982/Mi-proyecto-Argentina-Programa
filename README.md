@@ -1,3 +1,3 @@
-<h1 align="center"> Mi Proyecto Argentina Programa :MI CV </h1>
+<h1 align="center"> Mi Proyecto Argentina Programa 4.0 :MI CV </h1>
 
-![Presentacion](https://user-images.githubusercontent.com/125093776/220512380-fea22fe2-c856-4cdb-a8b7-9332af303263.jpg)
+![Presentacion](https://user-images.githubusercontent.com/125093776/220718573-b71199b6-e8e9-49c6-8e27-5ad6137e4f0b.jpg)
